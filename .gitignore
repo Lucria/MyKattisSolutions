@@ -12,6 +12,6 @@
 # Ignore files with extension `.out` & `.sm`
 *.out
 *.exe
-.idea/
-.vscode/
-cmake-build-debug/
+*/.idea/
+*/.vscode/
+*/cmake-build-debug/
