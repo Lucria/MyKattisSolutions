@@ -1,3 +1,6 @@
+//Done by Jerry Zhang Zhuoran
+//A0187394M
+
 #include <iostream>
 #include <cmath>
 #include <algorithm>
