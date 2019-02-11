@@ -11,7 +11,7 @@ int main() {
     string month;
     int date;
     cin >> month >> date;
-    if ((month == "OCT" || month == "DEC") && (date == 31 || date == 25)) {
+    if ((month == "OCT" && date == 31) || (month == "DEC" && date == 25)) {
         cout << "yup" << endl;
     } else {
         cout << "nope" << endl;
