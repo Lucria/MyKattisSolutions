@@ -3,4 +3,4 @@ project(CS2040C)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(CS2040C NastyHacks.cpp)
+add_executable(CS2040C testing.cpp)
