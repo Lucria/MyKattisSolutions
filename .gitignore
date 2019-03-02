@@ -5,14 +5,13 @@
 !*.*
 
 # Unignore all dirs
-#!*/
+!*/
 
 ### Above combination will ignore all files without extension ###
 
 # Ignore files with extension `.out` & `.sm`
 *.out
 *.exe
-*.idea
-*/.idea
-*/.vscode
-*/cmake-build-debug
+.idea/*
+.vscode/*
+cmake-build-debug/
