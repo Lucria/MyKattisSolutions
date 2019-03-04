@@ -60,3 +60,4 @@ int main() {
     cout << ans << endl;
     return 0;
 }
+// TODO READ THROUGH SOLUTION AND TRY TO CODE OUT MY OWN MERGESORT
