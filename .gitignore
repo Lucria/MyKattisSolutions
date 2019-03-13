@@ -10,6 +10,6 @@
 *.out
 *.exe
 .idea/*
-.vscode/*
 cmake-build-debug/
 *.txt
+*.vscode
