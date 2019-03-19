@@ -13,4 +13,5 @@
 cmake-build-debug/
 *.txt
 *.vscode
+.vscode/*
 *.vs
