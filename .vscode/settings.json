@@ -2,7 +2,11 @@
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "xtree": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "map": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled",
     "C_Cpp.intelliSenseEngineFallback": "Disabled"
