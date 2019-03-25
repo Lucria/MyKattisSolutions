@@ -6,7 +6,10 @@
         "xtree": "cpp",
         "utility": "cpp",
         "vector": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "xiosbase": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled",
     "C_Cpp.intelliSenseEngineFallback": "Disabled"
