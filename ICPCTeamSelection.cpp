@@ -42,10 +42,10 @@ int main() {
             sum += allscores[j*2 + 1];
         }
         cout << sum << endl;
-        cout << "DEBUGGING " << endl;
-        for (auto i : allscores) {
-            cout << i << endl;
-        }
+        // cout << "DEBUGGING " << endl;
+        // for (auto i : allscores) {
+            // cout << i << endl;
+        // }
     }
     return 0;
 }
