@@ -8,7 +8,7 @@ int main() {
     cin >> hands >> suit;
     int counter = hands * 4;
     while(counter--) {
-
+// TODO finish 
     }
     return 0;
 }
