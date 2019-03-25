@@ -9,7 +9,8 @@
         "map": "cpp",
         "list": "cpp",
         "queue": "cpp",
-        "xiosbase": "cpp"
+        "xiosbase": "cpp",
+        "istream": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled",
     "C_Cpp.intelliSenseEngineFallback": "Disabled"
