@@ -19,7 +19,6 @@ using namespace std;
 typedef vector<int> vi;
 typedef long long ll;
 #define M_PI 3.14159265358979323846
-// TODO INCOMPLETE
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr); cout.tie(nullptr);
